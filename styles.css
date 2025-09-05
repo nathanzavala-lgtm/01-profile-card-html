@@ -1,0 +1,62 @@
+h3 {
+	text-align: center;
+}
+body {
+	background-color: #add8e6;
+	font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1 {
+		font-size: 40px;
+		text-align: center;
+		margin-top: 40px;
+		color: #003366;
+}
+
+	h2 {
+		color: #708090;
+		text-align: center;
+	}
+p strong {
+	font-size: 28px;
+	display: block;
+	text-align: center;
+	margin-top: 20px;
+}
+
+p {
+		text-align: center;
+		font-size: 18px;
+		line-height: 1.6;
+}
+
+.profile-card {
+	background: #fff;
+	border: 2px solid #003366;
+	border-radius: 10px;
+	padding: 40px 40px;
+	max-width: 350px;
+	margin: 60px auto;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border: 5px solid red;
+}
+
+.profile-card img {
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	border-radius: 8px;
+	display: block;
+	margin: 0 auto 20px auto;
+}
+
+.profile-card ul {
+	list-style: none;
+	padding: 0;
+	margin-top: 20px;
+}
+
+.profile-card li {
+	margin-bottom: 12px;
+}
+}
